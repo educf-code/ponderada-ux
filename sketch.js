@@ -1,8 +1,8 @@
 // sketch.js
 
-// Título da Obra: Gema Cinética Reluzente
+// Título da Obra: Rosca Cinética Reluzente
 
-// Descrição: Uma gema multifacetada que gira suavemente,
+// Descrição: Uma Rosca multifacetada que gira suavemente,
 // respondendo ao movimento do mouse para revelar novos ângulos e brilhos.
 
 let anguloXAnimacao = 0;
